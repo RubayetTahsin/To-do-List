@@ -1,0 +1,2 @@
+Day 1 Update: Started learning Git and GitHub. 
+Set up my repository and made my first commit!
