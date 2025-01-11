@@ -101,13 +101,10 @@
                 deleteBtn.addEventListener('click', () => {
                     li.remove();
                 });
-                
-
                 todoList.appendChild(li);
                 todoInput.value = '';
             }
         });
-
         todoInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') {
                 addBtn.click();
